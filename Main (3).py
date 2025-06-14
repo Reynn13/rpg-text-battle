@@ -225,6 +225,3 @@ time.sleep(3.5)
 print(f"{k2.name}: Lets see, if you can kill me.")
 time.sleep(3)
 
-# Enter your code here! Make your own scenario/fight!
-# Actually, I kinda lazy, so make your own fight!
-# Sorry!
